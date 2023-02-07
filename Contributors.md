@@ -10,6 +10,7 @@
 [martindevelopske] (martindevelops.dev)
 [Raghav Singh](https://github.com/RaghavSaptam)
 - [Calvin Nguyen](https://githublcom/calvinguyen)
+- [Taylor Nielsen](https://github.com/tn334)
 - [Mete Sayan](https://github.com/MeteSayan)
 - [Vishnu](https://github.com/vishnutvm)
 - [Yashraj_Singh](https://github.com/miikkuu)
